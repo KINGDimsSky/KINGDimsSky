@@ -58,9 +58,7 @@
 </div>
 
 ## 📊 GitHub Stats
-
 [![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=KINGDimsSky&show_icons=true&theme=radical)](https://github.com/KINGDimsSky)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KINGDimsSky&layout=compact&theme=radical)](https://github.com/KINGDimsSky)
 
 ## 🐍 Snake Eating My Contributions
