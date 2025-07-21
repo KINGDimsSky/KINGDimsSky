@@ -61,9 +61,6 @@
 [![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=KINGDimsSky&show_icons=true&theme=radical)](https://github.com/KINGDimsSky)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KINGDimsSky&layout=compact&theme=radical)](https://github.com/KINGDimsSky)
 
-## 🐍 Snake Eating My Contributions
-![Snake animation](https://github.com/KINGDimsSky/KINGDimsSky/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dimaszulkarnain)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/dimaszulkarnain)
@@ -72,5 +69,4 @@
 ---
 
 ⭐️ From [Dimas Zulkarnain](https://github.com/KINGDimsSky)
-
 Let's build something amazing together! 🚀
